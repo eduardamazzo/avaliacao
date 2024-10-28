@@ -1,0 +1,10 @@
+:root{
+    --bg-color:rgb(195, 163, 228);
+    --primary-color: rgb(193, 175, 211);
+    --secundary-color: rgb(146, 89, 202);
+    --estilo-fonte: Cursive;
+}
+body{
+    background-color: rgb(78, 40, 116);
+
+}
